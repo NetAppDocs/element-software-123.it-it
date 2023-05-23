@@ -1,0 +1,150 @@
+---
+permalink: api/reference_element_api_clusterconfig.html 
+sidebar: sidebar 
+keywords: objects,object,clusterConfig 
+summary: 'L"oggetto clusterconfig restituisce le informazioni utilizzate dal nodo per comunicare con il cluster.' 
+---
+= Clusterconfig
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+L'oggetto clusterconfig restituisce le informazioni utilizzate dal nodo per comunicare con il cluster.
+
+
+
+== Membri dell'oggetto
+
+Questo oggetto contiene i seguenti membri:
+
+|===
+| Nome | Descrizione | Tipo 
+
+
+ a| 
+cipi
+ a| 
+Interfaccia di rete utilizzata per la comunicazione del cluster.
+ a| 
+stringa
+
+
+
+ a| 
+cluster
+ a| 
+Nome univoco del cluster.
+ a| 
+stringa
+
+
+
+ a| 
+EncryptionCapable
+ a| 
+Specifica se il nodo supporta la crittografia.
+ a| 
+booleano
+
+
+
+ a| 
+ensemble
+ a| 
+Nodi che partecipano al cluster.
+ a| 
+array di stringhe
+
+
+
+ a| 
+FipsDriveConfiguration
+ a| 
+Specifica se il nodo supporta dischi certificati FIPS 140-2.
+ a| 
+booleano
+
+
+
+ a| 
+HasLocalAdmin
+ a| 
+Specifica se il cluster dispone di un amministratore locale.
+ a| 
+booleano
+
+
+
+ a| 
+mipi
+ a| 
+Interfaccia di rete utilizzata per la gestione dei nodi.
+ a| 
+stringa
+
+
+
+ a| 
+nome
+ a| 
+Identificatore univoco del cluster.
+ a| 
+stringa
+
+
+
+ a| 
+ID NodeID
+ a| 
+Identificatore univoco del nodo.
+ a| 
+intero
+
+
+
+ a| 
+PendingNodeID
+ a| 
+Identificatore univoco del nodo in sospeso.
+ a| 
+intero
+
+
+
+ a| 
+ruolo
+ a| 
+Identifica il ruolo del nodo.
+ a| 
+stringa
+
+
+
+ a| 
+sipi
+ a| 
+Interfaccia di rete utilizzata per lo storage.
+ a| 
+stringa
+
+
+
+ a| 
+stato
+ a| 
+Indica lo stato del nodo.
+ a| 
+stringa
+
+
+
+ a| 
+versione
+ a| 
+Indica la versione del nodo.
+ a| 
+stringa
+
+|===
