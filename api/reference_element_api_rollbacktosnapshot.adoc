@@ -17,9 +17,13 @@ Il nuovo snapshot diventa attivo e lo snapshot esistente viene conservato fino a
 
 *CLUSTER_FULLNESS*
 
+[NOTE]
+====
+* È possibile creare snapshot se la completezza del cluster è nella fase 1, 2 o 3. Non è possibile creare snapshot quando la pienezza del cluster raggiunge la fase 4 o 5.
+* Il rollback di un volume a uno snapshot potrebbe non riuscire quando è in corso la sincronizzazione delle sezioni. Riprovare `RollbackToSnapshot` al termine della sincronizzazione.
 
-NOTE: È possibile creare snapshot se la completezza del cluster è nella fase 1, 2 o 3. Non è possibile creare snapshot quando la pienezza del cluster raggiunge la fase 4 o 5.
 
+====
 
 
 == Parametri

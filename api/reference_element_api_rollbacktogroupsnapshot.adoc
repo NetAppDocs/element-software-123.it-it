@@ -15,9 +15,13 @@ summary: È possibile utilizzare RollbackToGroupSnapshot per eseguire il rollbac
 
 Il rollback a uno snapshot di gruppo crea uno snapshot temporaneo di ciascun volume all'interno dello snapshot di gruppo.
 
+[NOTE]
+====
+* La creazione di uno snapshot è consentita se la completezza del cluster è nella fase 1, 2 o 3. Gli snapshot non vengono creati quando la completezza del cluster è nella fase 4 o 5.
+* Il rollback dei volumi in uno snapshot di gruppo potrebbe non riuscire quando è in corso la sincronizzazione delle sezioni. Riprovare `RollbackToGroupSnapshot` al termine della sincronizzazione.
 
-NOTE: La creazione di uno snapshot è consentita se la completezza del cluster è nella fase 1, 2 o 3. Gli snapshot non vengono creati quando la completezza del cluster è nella fase 4 o 5.
 
+====
 
 
 == Parametri
