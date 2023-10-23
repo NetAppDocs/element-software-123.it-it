@@ -1689,7 +1689,6 @@
   <block id="da3eb0bd8c882a21931739ac39ce915a" category="inline-link">Plug-in NetApp Element per la documentazione del server vCenter</block>
   <block id="c557278939ddfc5c37a8606a5b8bc3d8" category="paragraph">Per ulteriori informazioni su Element Plug-in per vCenter Server, consultare la<block ref="4a40fe421733073daff96e428d226590" category="inline-link-rx"></block>.</block>
   <block id="c6ad545ed5197a02a4f86759e091d934" category="summary">Un sistema storage all-flash SolidFire è composto da componenti hardware come dischi e nodi che vengono combinati in un pool di risorse di storage. Come sistema storage singolo, questo cluster unificato viene gestito con il software NetApp Element.</block>
-  <block id="feaccfca658600b99fd01ee647d128a7" category="doc">Documentazione di SolidFire ed Element Software 12.3.x.</block>
   <block id="70968c43e813c23795f7c233003b02f2" category="summary">Prima di iniziare a utilizzare il sistema storage all-flash, è necessario installare e configurare correttamente i nodi di storage.</block>
   <block id="5fffa3067879821d43a1616f31e36e80" category="doc">Installare nodi storage H-Series</block>
   <block id="49e20b8766c85b92858bdf473be281af" category="inline-link-macro">poster</block>
@@ -2521,7 +2520,6 @@
   <block id="4c46c9acea33f3a7201c692e8d84806b" category="sidebar">Gestire le connessioni di supporto</block>
   <block id="2e531c00d20727b760f0fefbb4c65c82" category="sidebar">Visualizza il tuo inventario nella pagina nodi di NetApp Hybrid Cloud Control</block>
   <block id="767682e703a28fefdc1067e1fcf04243" category="sidebar">Monitorate i volumi sul vostro cluster di storage con NetApp Hybrid Cloud Control</block>
-  <block id="0156654ae4dc6b09e871c56632755132" category="sidebar">Aggiorna il tuo sistema storage all-flash NetApp SolidFire per Element 12.3.x.</block>
   <block id="b837bae0f441ebacd86887d737939282" category="sidebar">Procedure di aggiornamento del sistema</block>
   <block id="f3ef8562bc46b3fd5d64fc8a88bab6f9" category="sidebar">Installare i nodi H410S e H610S</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
@@ -11943,4 +11941,5 @@
   <block id="86eccd8202a873aee7f9acfbe920bb59" category="paragraph"><block ref="00a55ff76496c3c45ca20071f6151bfc" prefix="" category="inline-code"></block></block>
   <block id="474ed7ffbbc0fc1d58ad983e7ef700f6" category="admonition">Il plug-in Element per vCenter 5,0 o versioni successive non è compatibile con vCenter Server 6,7 e 6,5.</block>
   <block id="dfd25ff244b001be7beece9729517779" category="list-text">non compresso</block>
+  <block id="da610458ca77f95bd33552584272f2c8" category="sidebar">Aggiorna la versione del tuo sistema storage all-flash NetApp SolidFire Element 12,3.x</block>
 </blocks>
