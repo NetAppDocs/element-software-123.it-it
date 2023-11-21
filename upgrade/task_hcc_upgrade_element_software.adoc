@@ -713,6 +713,6 @@ NOTE: Se il cluster dispone anche di nodi non H610S, questi nodi non H610S sono 
 [discrete]
 == Trova ulteriori informazioni
 
-* https://www.netapp.com/data-storage/solidfire/documentation["Pagina SolidFire and Element Resources"^]
+* https://docs.netapp.com/us-en/element-software/index.html["Documentazione software SolidFire ed Element"]
 * https://docs.netapp.com/us-en/vcp/index.html["Plug-in NetApp Element per server vCenter"^]
 

@@ -21,5 +21,5 @@ Scopri le risorse e gli strumenti per iniziare a utilizzare il software Element.
 
 == Trova ulteriori informazioni
 
-* https://www.netapp.com/data-storage/solidfire/documentation/["Pagina risorse storage all-flash SolidFire"^]
+* https://docs.netapp.com/us-en/element-software/index.html["Documentazione software SolidFire ed Element"]
 

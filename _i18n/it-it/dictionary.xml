@@ -2729,8 +2729,6 @@
   <block id="8b0c941549f657dc8e1e514f9bbb37df" category="inline-xref-macro">TestRemoteConnectivity</block>
   <block id="9711ed1c435e2da9977bc71d1bfe0d98" category="list-text"><block ref="9711ed1c435e2da9977bc71d1bfe0d98" category="inline-xref-macro-rx"></block></block>
   <block id="9c83e144e5481ac6766f4055e566594d" category="section-title">Trova ulteriori informazioni</block>
-  <block id="1c1519037df87ff4dd08fe6e757ff03f" category="inline-link">Pagina delle risorse NetApp SolidFire</block>
-  <block id="abc0c04174a58217258765895984ed4e" category="list-text"><block ref="abc0c04174a58217258765895984ed4e" category="inline-link-rx"></block></block>
   <block id="89e3bb4cf03209dcb9c85e2455cde9c3" category="inline-link">Documentazione per le versioni precedenti dei prodotti SolidFire ed Element di NetApp</block>
   <block id="461166164223a1234073a2c9d388d33a" category="list-text"><block ref="461166164223a1234073a2c9d388d33a" category="inline-link-rx"></block></block>
   <block id="8ee5e7345a08724cdab7fbe669e991ca" category="summary">È possibile utilizzare ListSchedules per ottenere informazioni su tutti gli snapshot pianificati creati.</block>
@@ -6520,8 +6518,6 @@
   <block id="4fbc5714103f362c0027c23531490878" category="list-text"><block ref="4fbc5714103f362c0027c23531490878" category="inline-xref-macro-rx"></block></block>
   <block id="a1ecf7be27d0987baa26a8bff8653ff6" category="list-text"><block ref="a1ecf7be27d0987baa26a8bff8653ff6" category="inline-xref-macro-rx"></block></block>
   <block id="c2c075d7ecfea2a1a630498ac1110e78" category="list-text"><block ref="c2c075d7ecfea2a1a630498ac1110e78" category="inline-xref-macro-rx"></block></block>
-  <block id="b0cda36836b6d8e27c36c8d9d6b48f3a" category="inline-link">Pagina risorse storage all-flash SolidFire</block>
-  <block id="a980426853b5ccc1de52aeb0b0ae0463" category="list-text"><block ref="a980426853b5ccc1de52aeb0b0ae0463" category="inline-link-rx"></block></block>
   <block id="d25459b3c5acd2943fae1e5fda4cfa22" category="inline-link">Centro di documentazione software SolidFire ed Element</block>
   <block id="024c22e90f2315636ed8d61b006ad1b5" category="list-text"><block ref="024c22e90f2315636ed8d61b006ad1b5" category="inline-link-rx"></block></block>
   <block id="87983894158e7aa7ffb886b6077636c0" category="summary">È possibile utilizzare il metodo GetKeyProviderKmip per recuperare le informazioni sul provider di chiavi KMIP (Key Management Interoperability Protocol) specificato.</block>
@@ -7678,8 +7674,6 @@
   <block id="09bfac84403d33379e533954403b0f94" category="list-text">Informazioni relative a CPU e storage sulle macchine virtuali</block>
   <block id="7aa85da92a1cd23b2981568643e3da1c" category="inline-link">Documentazione SolidFire Active IQ</block>
   <block id="f02632134f46548247abd92a38e5f73e" category="paragraph">Per ulteriori informazioni su SolidFire Active IQ, consultare<block ref="3422f40bd7bba6370d69142070e812b4" category="inline-link-rx"></block>.</block>
-  <block id="631923a687ff82d68973d99b95597b47" category="inline-link">Pagina SolidFire and Element Resources</block>
-  <block id="238c5b123e3473c57e2925edccb205c2" category="list-text"><block ref="238c5b123e3473c57e2925edccb205c2" category="inline-link-rx"></block></block>
   <block id="a881a0468246e93ae6e2c5bccd78758e" category="inline-link">Plug-in NetApp Element per server vCenter</block>
   <block id="7cf5cffc3745b8348cdcfb1c3d0d472f" category="list-text"><block ref="7cf5cffc3745b8348cdcfb1c3d0d472f" category="inline-link-rx"></block></block>
   <block id="8f7f4baec8aa05a765ec83446ad7d0c6" category="inline-link">Sito di supporto NetApp &amp;gt; Tool per Active IQ</block>
@@ -11942,4 +11936,8 @@
   <block id="da610458ca77f95bd33552584272f2c8" category="sidebar">Aggiorna la versione del tuo sistema storage all-flash NetApp SolidFire Element 12,3.x</block>
   <block id="c04c3f3380a29245247f6e8a6c77a880" category="paragraph">Potrebbe essere necessario abilitare le seguenti porte TCP e UDP attraverso il firewall perimetrale del data center, in modo da poter gestire il sistema in remoto e consentire ai client esterni al data center di connettersi alle risorse. Alcune di queste porte potrebbero non essere necessarie, a seconda delle modalità di utilizzo del sistema.</block>
   <block id="331d6d490990c63b2cee0dc04fe2589b" category="paragraph">Tutte le porte sono TCP, se non diversamente specificato, e tutte le porte TCP devono supportare la comunicazione handshake a tre vie tra il server di supporto NetApp, il nodo di gestione e i nodi che eseguono il software Element. Ad esempio, l'host su un'origine del nodo di gestione comunica con l'host su una destinazione MVIP del cluster di storage attraverso la porta TCP 443, e l'host di destinazione comunica nuovamente con l'host di origine attraverso qualsiasi porta.</block>
+  <block id="5858de35bb153f56bdb4f3fbd003b515" category="list-text"><block ref="5858de35bb153f56bdb4f3fbd003b515" category="inline-link-rx"></block></block>
+  <block id="e6344f017ebc6c23de294cbd0c5b3ec0" category="image-alt">Visualizzazione delle impostazioni generali per i server LDAP</block>
+  <block id="bf0a897972fda4244e862fc7b7474446" category="image-alt">Creare una nuova visualizzazione utente</block>
+  <block id="f4029885f6f8ac69ff0c61a3a67af4dc" category="sidebar">Un sistema storage all-flash SolidFire è composto da componenti hardware come dischi e nodi che vengono combinati in un pool di risorse di storage. Usando l'interfaccia Element, l'API o altri tool di gestione, puoi gestire questi cluster di risorse storage con il software NetApp Element. Questo sito contiene la documentazione del software Element 12,3.x.</block>
 </blocks>

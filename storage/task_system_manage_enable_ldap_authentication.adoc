@@ -34,7 +34,7 @@ Ad esempio, per aggiungere un numero di porta personalizzato, immettere <host na
 link:reference_system_manage_ldap_details.md#["Dettagli LDAP"]
 
 +
-image::../media/element_new_ldap_servers.jpg[nuovi server ldap element]
+image::../media/element_new_ldap_servers.jpg[Visualizzazione delle impostazioni generali per i server LDAP]
 
 . Fare clic su *Enable LDAP* (attiva LDAP).
 . Fare clic su *Test User Authentication* (verifica autenticazione utente) per verificare l'accesso al server per un utente.
@@ -44,7 +44,7 @@ image::../media/element_new_ldap_servers.jpg[nuovi server ldap element]
 +
 .. Fare clic su *utente* > *Visualizza*.
 +
-image::../media/element_new_cluster_admin.jpg[element new cluster admin]
+image::../media/element_new_cluster_admin.jpg[Creare una nuova visualizzazione utente]
 
 .. Per il nuovo utente, fare clic su *LDAP* per tipo utente e incollare il gruppo copiato nel campo Nome distinto.
 .. Selezionare le autorizzazioni, in genere tutte le autorizzazioni.
