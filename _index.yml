@@ -1,5 +1,12 @@
 ---
 indexpage:
+  title: Documentazione software SolidFire ed Element
+  summary: Un sistema storage all-flash SolidFire è composto da componenti hardware
+    come dischi e nodi che vengono combinati in un pool di risorse di storage. Come
+    sistema storage singolo, questo cluster unificato viene gestito con il software
+    NetApp Element.
+  keywords: solidfire, element software, documentation, all-flash storage, storage
+    system, storage resources, management tools
   lead: Un sistema storage all-flash SolidFire è composto da componenti hardware come
     dischi e nodi che vengono combinati in un pool di risorse di storage. Usando l'interfaccia
     Element, l'API o altri tool di gestione, puoi gestire questi cluster di risorse
